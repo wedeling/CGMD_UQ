@@ -1,4 +1,4 @@
-# Active subspace Uncertainty Quantification for Coarse-Grained Molecular Dynamics
+# Active Subspace Uncertainty Quantification for Coarse-Grained Molecular Dynamics
 
 This is a repository to reproduce the results of:
 
