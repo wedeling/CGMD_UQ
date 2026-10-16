@@ -1,0 +1,2 @@
+data/data_local_twist_average_err_only_replicas.npz filter=lfs diff=lfs merge=lfs -text
+data/data_persistence_length_err_only_replicas.npz filter=lfs diff=lfs merge=lfs -text
